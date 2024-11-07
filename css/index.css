@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0;
+  font-family: Optima;
+  background: #fff;
+  text-align:center;;
+}
+#img{
+  float:right;
+}
