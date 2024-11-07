@@ -7,8 +7,9 @@
 body {
   margin: 0;
   font-family: Optima;
-  background: #fff;
-  text-align:center;;
+  background: #04202D;
+  text-align:center;
+  color: #fff;
 }
 #img{
   float:right;
